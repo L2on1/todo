@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+
 # todo
+
 =======
-Hello
->>>>>>> master
+
+## Hello
+
 niquel tu as bien tout fusionné ! :) 
